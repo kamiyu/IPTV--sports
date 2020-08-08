@@ -1,1 +1,31 @@
-https://github.com/marcos109/IPTV--sportshttps://github.com/marcos109/IPTV--sports
+#EXTM3U
+
+ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO
+
+
+#PLAYLISTV: pltv-logo="https://scontent.fmvd1-1.fna.fbcdn.net/v/t1.0-9/112042255_3182271235172602_4572636989564361194_o.jpg?_nc_cat=108&_nc_sid=0debeb&_nc_eui2=AeGtACl1nx9onLAKsdnUhJSZvyupSltQUuy_K6lKW1BS7N4bV8flFNeP7sm49KgWg6VSEMvGnWOuUKRiwPCJe-SV&_nc_ohc=FMXEatu7i4AAX-nn2yO&_nc_ht=scontent.fmvd1-1.fna&oh=738c6ed350ddfcd0195a776805f3c816&oe=5F3F559C" pltv-name="Team Iptv" pltv-description="CANALES" pltv-cover="https://scontent.fmvd1-1.fna.fbcdn.net/v/t1.0-9/112042255_3182271235172602_4572636989564361194_o.jpg?_nc_cat=108&_nc_sid=0debeb&_nc_eui2=AeGtACl1nx9onLAKsdnUhJSZvyupSltQUuy_K6lKW1BS7N4bV8flFNeP7sm49KgWg6VSEMvGnWOuUKRiwPCJe-SV&_nc_ohc=FMXEatu7i4AAX-nn2yO&_nc_ht=scontent.fmvd1-1.fna&oh=738c6ed350ddfcd0195a776805f3c816&oe=5F3F559C" pltv-author="TEAM IPTV"
+######################################################################################################################################
+######################################################################################################################################
+#EXTINF:-1 tvg-logo="https://image.freepik.com/psd-gratis/psd-icono-actualizar_30-899.jpg" group-title="01- Actualizada AGOSTO",01- Actualizada AGOSTO
+https://stream.vagalume.fm/hls/1470155259220668/aac.m3u8
+#####################################################################################################################################
+
+
+######################################################################################################################################
+####################################### DEPORTES LATINO
+#EXTINF:-1 tvg-logo="https://img2.freepng.es/20180718/ltb/kisspng-logo-sport-brand-font-reebook-5b4fb7fcef23b9.8548709715319511009795.jpg" group-title="41- DEPORTES LATINO",41- DEPORTES LATINO
+http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
+#######################################
+######################################################################################################################################
+
+#EXTINF:-1  tvg-logo="https://startvmexico.com/wp-content/uploads/2018/10/ADRENALINA_LOGO.jpg" group-title="41- DEPORTES LATINO",Adrenalina (4)
+http://khujnv.nl:80/live/3purple4368v/xc4es7mu32sd/50017.ts
+
+#EXTINF:-1  tvg-logo="http://www.megacable.com.mx/images/canales/74_aym-sports.png" group-title="41- DEPORTES LATINO",Aym Sports (3)
+http://ytv.plus:25461/apps/1234/3101
+#EXTINF:-1  tvg-logo="http://www.megacable.com.mx/images/canales/74_aym-sports.png" group-title="41- DEPORTES LATINO",Aym Sports (4)
+http://khujnv.nl:80/live/3purple4368v/xc4es7mu32sd/11039.ts
+#EXTINF:-1  tvg-logo="http://www.megacable.com.mx/images/canales/74_aym-sports.png" group-title="41- DEPORTES LATINO",Aym Sports (5)
+http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/51455.rtmp
+#EXTINF:-1  tvg-logo="http://www.megacable.com.mx/images/canales/74_aym-sports.png" group-title="41- DEPORTES LATINO",Aym Sports (6)
+http://tv.nousiptv.com:25462/live/luna/1234/3089.rtmp
