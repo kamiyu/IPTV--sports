@@ -30,12 +30,8 @@ http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/51455.rtmp
 #EXTINF:-1  tvg-logo="https://www.eazycityblog.com/wp-content/uploads/2016/05/Wikinews_Sports.png" group-title="41- DEPORTES LATINO",Espn Brasil (6)
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/espn.smil/chunklist_b528441_sleng.m3u8
 
-#EXTM3U                                                                                                             
+                                                                                                           #EXTINF:-1,[COLOR lime]LA SIGUIENTE LISTA HA SIDO CREADA  [/COLOR] --- [COLOR lime] Y DIVULGADA SIN BENEFICIOS[/COLOR]:#IMG:https://wips.plug.it/cips/tecnologia/cms/2017/11/anonymous-italia.jpg?w=738&a=c&h=415#EXTINF:-1,[COLOR lime] NADA Y 'DEBIDO A LA NO DISIGNADA [/COLOR][COLOR lime]CUALQUIER OTRA FORMA DE ADQUISICIÓN Y' PARA SER CONSIDERADO " FRAUDE"[/COLOR]:#IMG:https://wips.plug.it/cips/tecnologia/cms/2017/11/anonymous-italia.jpg?w=738&a=c&h=415
 
-#EXTINF:-1,[COLOR lime]LA SIGUIENTE LISTA HA SIDO CREADA  [/COLOR] --- [COLOR lime] Y DIVULGADA SIN BENEFICIOS[/COLOR]:#IMG:https://wips.plug.it/cips/tecnologia/cms/2017/11/anonymous-italia.jpg?w=738&a=c&h=415
-https://vimeo.com/138744486l
-#EXTINF:-1,[COLOR lime] NADA Y 'DEBIDO A LA NO DISIGNADA [/COLOR][COLOR lime]CUALQUIER OTRA FORMA DE ADQUISICIÓN Y' PARA SER CONSIDERADO " FRAUDE"[/COLOR]:#IMG:https://wips.plug.it/cips/tecnologia/cms/2017/11/anonymous-italia.jpg?w=738&a=c&h=415
-https://vimeo.com/138744486l
 
 #EXTINF:-1, @Wiseplayekodi telegrama de contacto para cualquier información y aclaración:#IMG:https://wips.plug.it/cips/tecnologia/cms/2017/11/anonymous-italia.jpg?w=738&a=c&h=415
 https://vimeo.com/138744486l
@@ -165,7 +161,7 @@ httphost://$http-raw=http://hdstreams.club/page/ch38.php$http-refferer=http://hd
 #EXTINF:-,club 39 horas
 httphost://$http-raw=http://hdstreams.club/page/ch39.php$http-refferer=http://hdstreams.club/hd/ch39.php
 #EXTINF:-,club 40 horas
-httphost://$http-raw=http://hdstreams.club/page/ch40.php$http-refferer=http://hdstreams.club/hd/ch40.php
+httphost://$http-raw=https://channelstream.club/stream/bls.php?id=72711$http-refferer=https://channelstream.club/stream/bls.php?id=72711
 #EXTINF:-,Wajax php horas   
 httphost://$http-raw=http://elixx.me/aw/wajax.php$http-refferer=http://elixx.me/aw/wajax.php
 #EXTINF:-,Wajax html horas   
