@@ -1,12 +1,12 @@
 #EXTM3U
 
-#EXTINF:0 tvg-logo="https://futboll.tv/images/20200801_021702_.jpg", FUTBOL.M3U
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-gLn8FZ5MvqA/Xh88vH4b34I/AAAAAAAACrk/kCxwNmxvEjoPufAy6b-Sosn5XlsLfannQCLcBGAsYHQ/s320/Sportoka-TV-addon-kodi.png", FUTBOL.M3U
 https://stream.vagalume.fm/hls/1470155259220668/aac.m3u8
 #EXTINF:0 tvg-logo="http:///www.playstorear.com/wp-content/uploads/actualizar.png", Actualizada 14.09.2020
 https://stream.vagalume.fm/hls/1470155259220668/aac.m3u8
 #EXTINF:0 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/077ec66c-5081-4944-92df-fa9039d7f6a8-profile_image-300x300.png", http:///FUTBOL.me/FUTBOLIBRE
 https://stream.vagalume.fm/hls/1470155259220668/aac.m3u8
-#EXTINF:0 tvg-logo="https://pb.ongame.net/static/media/2019/09/pb_banner_mini_canalvip.jpg", @FUTBOLVIP503
+#EXTINF:0 tvg-logo="https://d107a8nc3g2c4h.cloudfront.net/blog/wp-content/uploads/2018/03/dcsportskodi-resized-1024x596.jpg", @FUTBOLVIP503
 https://stream.vagalume.fm/hls/1470155259220668/aac.m3u8
 #EXTINF:0 tvg-logo="http:///msfi.ir/Content/img/Logos/telegram2.png", @ELFUTBOLERO
 https://stream.vagalume.fm/hls/1470155259220668/aac.m3u8
