@@ -32,10 +32,10 @@ http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
 #######################################
 ######################################################################################################################################
 
-#EXTINF:-1  tvg-logo="https://tv.futboladiccion.com/wp-content/uploads/2018/03/Como-ver-SKY-Planeta-Futbol-en-vivo.jpg" group-title="ESP/ING/FRA",PLANETA FUTBOL 1
+#EXTINF:-1  tvg-logo="https://tv.futboladiccion.com/wp-content/uploads/2018/03/Como-ver-SKY-Planeta-Futbol-en-vivo.jpg" group-title="41-ESP/ING/FRA",PLANETA FUTBOL 1
 http://khujnv.nl:80/live/3purple4368v/xc4es7mu32sd/50017.ts
 
-#EXTINF:-1  tvg-logo="https://tv.futboladiccion.com/wp-content/uploads/2018/03/Como-ver-SKY-Planeta-Futbol-en-vivo.jpg" group-title="ESP/BRA/POR/ING",PLANETA FUTBOL 2
+#EXTINF:-1  tvg-logo="https://tv.futboladiccion.com/wp-content/uploads/2018/03/Como-ver-SKY-Planeta-Futbol-en-vivo.jpg" group-title="41-ESP/BRA/POR/ING",PLANETA FUTBOL 2
 http://ytv.plus:25461/apps/1234/3101
 #EXTINF:-1  tvg-logo="https://www.futbolmovil.cl/wp-content/uploads/2017/02/Rojadirecta-en-Android.jpg" group-title="ESP/FRA/POR/ING",PLANETA FUTBOL 3
 https://ul.cdn946.net:8443/hls/3bf3l73drzsflfn.m3u8?s=dSOow8d4Vd6Elb8p4HKQ3w&e=1597042649
