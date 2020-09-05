@@ -18,7 +18,7 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 #EXTINF:-1 tvg-id="" tvg-name="PLANETA FUTBOL | PLANETA FUTBOL 1"tvg-logo="https://tv.futboladiccion.com/wp-content/uploads/2018/03/Como-ver-SKY-Planeta-Futbol-en-vivo.jpg" group-title="PLANETA FUTBOL",PLANETA FUTBOL 1
 http://23.237.78.50:8081/live-2/482/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS81LzIwMjAgNzoxMzo1NyBQTSZoYXNoX3ZhbHVlPUdmcjJWYkZyQVN3MXZmbWk1S3FGOWc9PSZ2YWxpZG1pbnV0ZXM9MTIwJnN0cm1fbGVuPTEw
 #EXTINF:-1 tvg-id="" tvg-name="PLANETA FUTBOL | PLANETA FUTBOL 1"tvg-logo="https://1.bp.blogspot.com/-iHaYK-uXspY/U_wf96Wv9_I/AAAAAAAAOgQ/oEbBGY666VE/s1600/planeta-futbol.jpg" group-title="PLANETA FUTBOL",PLANETA FUTBOL 2
-https://u65464.cdn884.net:8443/hls/jg3eg8t.m3u8?s=3kNe4l0P71At-D9TM-hlNg&e=1599266466
+http://185.39.11.35:8081/live/ch5sd6.m3u8?e=1599335912&st=npUeRK31lXae-xIzehmi1w
 #EXTINF:-1 tvg-id="" tvg-name="PLANETA FUTBOL | PLANETA FUTBOL 1"tvg-logo="https://tv.futboladiccion.com/wp-content/uploads/2018/03/Como-ver-SKY-Planeta-Futbol-en-vivo.jpg" group-title="PLANETA FUTBOL",PLANETA FUTBOL 3
 http://23.237.78.50:8081/live-2/258/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS80LzIwMjAgNzoxMjoyNiBQTSZoYXNoX3ZhbHVlPTVKTVZwMTNoSzJGNUVwdGFUQmVEQUE9PSZ2YWxpZG1pbnV0ZXM9MTIwJnN0cm1fbGVuPTEw
 #EXTINF:-1 tvg-id="" tvg-name="PLANETA FUTBOL | PLANETA FUTBOL 1"tvg-logo="https://1.bp.blogspot.com/-iHaYK-uXspY/U_wf96Wv9_I/AAAAAAAAOgQ/oEbBGY666VE/s1600/planeta-futbol.jpg" group-title="PLANETA FUTBOL",PLANETA FUTBOL 4
