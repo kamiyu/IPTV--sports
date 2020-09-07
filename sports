@@ -18,7 +18,7 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 #EXTINF:-1 tvg-id="" tvg-name="PLANETA FUTBOL | PLANETA FUTBOL 1"tvg-logo="https://tv.futboladiccion.com/wp-content/uploads/2018/03/Como-ver-SKY-Planeta-Futbol-en-vivo.jpg" group-title="PLANETA FUTBOL",PLANETA FUTBOL 1
 http://23.237.78.50:8081/live-2/258/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS83LzIwMjAgNjo0MzoyMyBQTSZoYXNoX3ZhbHVlPVZQcVBBUHFIajJwWmhEYnQxS2JnNXc9PSZ2YWxpZG1pbnV0ZXM9MTIwJnN0cm1fbGVuPTEw
 #EXTINF:-1 tvg-id="" tvg-name="PLANETA FUTBOL | PLANETA FUTBOL 1"tvg-logo="https://1.bp.blogspot.com/-iHaYK-uXspY/U_wf96Wv9_I/AAAAAAAAOgQ/oEbBGY666VE/s1600/planeta-futbol.jpg" group-title="PLANETA FUTBOL",PLANETA FUTBOL 2
-http://185.39.11.35:8081/live/ch5sd6.m3u8?e=1599335912&st=npUeRK31lXae-xIzehmi1w
+http://cdn00.telerium.site:2052/btm_hls/128/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS83LzIwMjAgNjo0OTowMCBQTSZoYXNoX3ZhbHVlPTRaZTVISGpidzZDdHcxeWQwN2FROEE9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-id="" tvg-name="PLANETA FUTBOL | PLANETA FUTBOL 1"tvg-logo="https://tv.futboladiccion.com/wp-content/uploads/2018/03/Como-ver-SKY-Planeta-Futbol-en-vivo.jpg" group-title="PLANETA FUTBOL",PLANETA FUTBOL 3
 https://akamai2-me.cdn.booyah.live/hls/113137/21916993.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PLANETA FUTBOL | PLANETA FUTBOL 1"tvg-logo="https://1.bp.blogspot.com/-iHaYK-uXspY/U_wf96Wv9_I/AAAAAAAAOgQ/oEbBGY666VE/s1600/planeta-futbol.jpg" group-title="PLANETA FUTBOL",PLANETA FUTBOL 4
