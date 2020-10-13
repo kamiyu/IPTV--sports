@@ -18,7 +18,7 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 #EXTINF:-1 tvg-id="" tvg-name="PLANETA FUTBOL | PLANETA FUTBOL 1"tvg-logo="https://tv.futboladiccion.com/wp-content/uploads/2018/03/Como-ver-SKY-Planeta-Futbol-en-vivo.jpg" group-title="PLANETA FUTBOL",PLANETA FUTBOL 1
 https://ul.cdn946.net:8443/hls/jc57edzy4v.m3u8?s=_6Ea07_YIAdy4IzyOeKdPQ&e=1602640651
 #EXTINF:-1 tvg-id="" tvg-name="PLANETA FUTBOL | PLANETA FUTBOL 1"tvg-logo="https://1.bp.blogspot.com/-iHaYK-uXspY/U_wf96Wv9_I/AAAAAAAAOgQ/oEbBGY666VE/s1600/planeta-futbol.jpg" group-title="PLANETA FUTBOL",PLANETA FUTBOL 2
-https://2204.janjua.pw:8088/adfree/goltv001002/playlist.m3u8?id=99617&pk=422ba7dac928f32bdb4fb58fa4248050e7b5b4814aaac05a8c47e686cf9dcbab
+http://emiraytv.ddns.net:25461/BUSCANOSENFACEBOOK/EMIRAYTV/4199
 #EXTINF:-1 tvg-id="" tvg-name="PLANETA FUTBOL | PLANETA FUTBOL 1"tvg-logo="https://tv.futboladiccion.com/wp-content/uploads/2018/03/Como-ver-SKY-Planeta-Futbol-en-vivo.jpg" group-title="PLANETA FUTBOL",PLANETA FUTBOL 3
 https://unidfpclnlds141.akamaized.net/linear/hls/pb/event/bQ2JGGVzTpqfCfcTZWay1Q/stream/3e60c7f5-b420-46b2-9634-890d8b32ff7d:TPE/variant/c9fe74e2f4d7fc5df7bfad7969bb4acc/bandwidth/4500000.m3u8?hdntl=exp=1602529712~acl=*~id=6a2232dc-7490-44c2-a379-ef76092a704d~data=hdntl~hmac=9f98cbcfdc09adc29af063d7eeafa78491dbf6b690e4a3767712c276ee9d2d97
 #EXTINF:-1 tvg-id="" tvg-name="PLANETA FUTBOL | PLANETA FUTBOL 1"tvg-logo="https://1.bp.blogspot.com/-iHaYK-uXspY/U_wf96Wv9_I/AAAAAAAAOgQ/oEbBGY666VE/s1600/planeta-futbol.jpg" group-title="PLANETA FUTBOL",PLANETA FUTBOL 4
@@ -33,3 +33,9 @@ https://petope152.caraponi.me/live/vtv/index.m3u8?token=-_cNKDihTZRgit5Bt4bWCA&e
 http://ul.cdn946.net:8080/hls/93ohoswdxjzz.m3u8?s=rNHlNPEUG_OxadBI___QcQ&e=1602453433
 #EXTINF:-1 tvg-id="" tvg-name="PLANETA FUTBOL | PLANETA FUTBOL 1"tvg-logo="https://1.bp.blogspot.com/-iHaYK-uXspY/U_wf96Wv9_I/AAAAAAAAOgQ/oEbBGY666VE/s1600/planeta-futbol.jpg" group-title="PLANETA FUTBOL",PLANETA FUTBOL 9
 https://ul.cdn946.net:8443/hls/dy8btklab6sb.m3u8?s=a5WDQhSmmPGs2h3Qx14R8g&e=1602308230                                             
+#EXTINF:-1,Venezuela vs paraguay
+http://zufreelist.net:8080/464VF5A4ER5VF5RF5VCR54CV54RC5R54C5RC515C1/464VF5A4ER5VF5656556565454DFDFDFDFCDCDSCDSDSDSDSDSD/2120
+#EXTINF:-1,ecuador vs uruguay
+http://zufreelist.net:8080/464VF5A4ER5VF5RF5VCR54CV54RC5R54C5RC515C1/464VF5A4ER5VF5656556565454DFDFDFDFCDCDSCDSDSDSDSDSD/2121
+#EXTINF:-1,bolivia vs argentina
+http://zufreelist.net:8080/464VF5A4ER5VF5RF5VCR54CV54RC5R54C5RC515C1/464VF5A4ER5VF5656556565454DFDFDFDFCDCDSCDSDSDSDSDSD/2122
