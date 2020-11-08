@@ -34,7 +34,7 @@ http://ul.cdn946.net:8080/hls/93ohoswdxjzz.m3u8?s=rNHlNPEUG_OxadBI___QcQ&e=16024
 #EXTINF:-1 tvg-id="" tvg-name="PLANETA FUTBOL | PLANETA FUTBOL 1"tvg-logo="https://1.bp.blogspot.com/-iHaYK-uXspY/U_wf96Wv9_I/AAAAAAAAOgQ/oEbBGY666VE/s1600/planeta-futbol.jpg" group-title="PLANETA FUTBOL",PLANETA FUTBOL 9
 https://perocoma152.caraponi.me/live/goltv/index.m3u8?token=tR2070Qp3bwN7xu75GzZvw&expires=1604687641                                    
 #EXTINF:-1,PREMIER LEAGUE 1
-https://storage.googleapis.com/dailycc/22/22.m3u8
+http://23.237.78.50:2052/live-2/263/chunks.m3u8?nimblesessionid=735102&wmsAuthSign=c2VydmVyX3RpbWU9MTEvOC8yMDIwIDQ6NDA6MzQgUE0maGFzaF92YWx1ZT1WTHFUd01iNVZzWVM2ZDMzeUtMa013PT0mdmFsaWRtaW51dGVzPTEyMCZzdHJtX2xlbj0xMA==
 #EXTINF:-1,PREMIER LEAGUE 2
 http://156.96.44.13:8081/televall2021/246_.m3u8?md5=0qSUjwTwPv5RzhOn1066sw&expires=1604875094
 #EXTINF:-1,PREMIER LEAGUE 3
