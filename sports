@@ -39,3 +39,9 @@ http://23.237.78.50/live-1000/034/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEv
 https://espare.tk/live/tyc_sports_lat.m3u8?token=B1p7yCxrmFJwhXwKOTKeDg&expires=1605323557
 #EXTINF:-1,PREMIER LEAGUE 3
 https://wnjulive-lh.akamaihd.net/i/WNJU_LIVE1@183615/index_3_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,PREMIER LEAGUE ru1
+https://95-213-224-183.livesports24.online/ntvmatchfoot1.m3u8
+#EXTINF:-1,PREMIER LEAGUE ru2
+https://95-213-224-183.livesports24.online/mfootball2rus.m3u8
+#EXTINF:-1,PREMIER LEAGUE ru3
+https://95-213-224-183.livesports24.online/rumatchf3.m3u8
