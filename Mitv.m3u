@@ -1,7 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | DIRECTV SPORTS 1 HD" tvg-logo="https://pbs.twimg.com/profile_images/969311694790021120/AhXbomVG_400x400.jpg" group-title="(DEPORTES)",DEPORTES | DIRECTV SPORTS 1 HD
-http://mirarelax.xyz:8080/domingo2/saludosamigos/132
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | FOX SPORTS 3 opc 2" tvg-logo="https://pbs.twimg.com/profile_images/1212793409972428802/GOVO09Xq_400x400.png" group-title="(DEPORTES)",DEPORTES | FOX SPORTS 3 opc 2
-http://mirarelax.xyz:8080/domingo2/saludosamigos/133
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | UNIVISION DEPORTES" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7f/UDN-Image-1.jpg/revision/latest/scale-to-width-down/340?cb=20190405094925" group-title="(DEPORTES)",DEPORTES | UNIVISION DEPORTES
-http://mirarelax.xyz:8080/domingo2/saludosamigos/134
+
+#PLAYLISTV: pltv-logo="https://avatars1.githubusercontent.com/u/45984933?s=180&v=4" pltv-name="TOP.tv" pltv-description="CANALES IPTV" pltv-cover="https://avatars1.githubusercontent.com/u/45984933?s=180&v=4" pltv-author="TOP.tv"
+######################################################################################################################################
+######################################################################################################################################
+#EXTINF:-1 tvg-logo="https://avatars1.githubusercontent.com/u/45984933?s=180&v=4" group-title="01- LISTA GRATUITA",01- LISTA GRATUITA
+https://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
+#####################################################################################################################################
+
+######################################################################################################################################
+#EXTINF:-1 tvg-logo="https://avatars1.githubusercontent.com/u/45984933?s=180&v=4" group-title="02- Actualizada 14/07/19",02- Actualizada 14/07/19
+https://stream.vagalume.fm/hls/1470155259220668/aac.m3u8
+#####################################################################################################################################
+######################################################################################################################################
+####################################### PREMIER-LIGUE
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2016/06/16/01/20/argentina-1460299_960_720.jpg" group-title="01- PREMIER-LIGUE",03- ARGENTINA
+https://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#######################################
+
+#EXTINF:-1 tvg-logo="https://www.cn247.tv/img/logo.png" group-title="01- PREMIER-LIGUE",24/7 Noticias
+http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
