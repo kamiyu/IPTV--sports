@@ -1,1 +1,13 @@
 
+#EXTM3U
+ 
+#EXTINF: -1 group-title = "eldukedelasapuesta IPTV", Gerado por eldukedelasapuesta 
+ 
+#EXTINF: -1 tvg-logo = "https://boxtvmania.files.wordpress.com/2018/08/vamos.png" group-title = "PREMIER LIGUE", #VAMOS ESPAÑA FHD-HECVC
+http://thex.tv:57999/juanlopez/juanlopez/180
+ 
+#EXTINF: -1 tvg-logo = "https://boxtvmania.files.wordpress.com/2018/08/vamos.png" group-title = "PREMIER LIGUE", #VAMOS ESPAÑA HD-
+http://thex.tv:57999/juanlopez/juanlopez/181
+ 
+#EXTINF: -1 tvg-logo = "https://pbs.twimg.com/profile_images/1080017503047213056/9sMHy4R5_400x400.jpg" group-title = "DEPORTES", ADRENALINA FHD-
+http://thex.tv:57999/juanlopez/juanlopez/183
