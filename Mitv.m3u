@@ -20,8 +20,8 @@ https://wmaqlive-f.akamaihd.net/i/wmaqb1_1@24420/index_1286_av-b.m3u8?sd=10&reba
 #EXTINF:-1 tvg-logo="https://www.cn247.tv/img/logo.png" group-title="01- PREMIER-LIGUE",DAZN
 https://storage.googleapis.com/dailycl4/4/4.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cn247.tv/img/logo.png" group-title="01- PREMIER-LIGUE",SKY SPORT
-http://planettvweb.com:8091/live/German/German/11976.m3u8
+#EXTINF:-1 tvg-logo="https://www.cn247.tv/img/logo.png" group-title="01- PREMIER-LIGUE",SKY1 SPORT
+https://gt1.gt-app.com:443/hls/barVSrmi.m3u8
 
 #####################################################################################################################################
 ######################################################################################################################################
