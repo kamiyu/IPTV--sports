@@ -18,7 +18,7 @@ https://wmaqlive-f.akamaihd.net/i/wmaqb1_1@24420/index_1286_av-b.m3u8?sd=10&reba
 #######################################
 
 #EXTINF:-1 tvg-logo="https://www.cn247.tv/img/logo.png" group-title="01- PREMIER-LIGUE",DAZN
-
+http://51.178.65.221:32325/egress/af3406be52c9c3b9/E-NORTE/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cn247.tv/img/logo.png" group-title="01- PREMIER-LIGUE",SKY1 SPORT
 http://51.178.65.221:32325/egress/af3406be52c9c3b9/E-NORTE/index.m3u8
@@ -31,4 +31,4 @@ http://23.237.78.54/live-1000/280/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8z
 #######################################
 
 #EXTINF:-1 tvg-logo="https://www.cn247.tv/img/logo.png" group-title="02- LA LIGA",SKY-SPORT MX
-http://planettvweb.com:8091/German/German/11913
+http://51.178.65.221:32325/egress/af3406be52c9c3b9/E-NORTE/index.m3u8
