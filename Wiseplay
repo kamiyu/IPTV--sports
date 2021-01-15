@@ -1,0 +1,22 @@
+{
+	 "name": "chukydeport-mix",
+    "author": "chuky",
+    "image": "https://media.giphy.com/media/giv0BXaL5cLOA8jmhp/giphy.gif",
+    "info": "Enlaces de internet",
+    "telegram": "t.me/listaswiseplay",
+    "url": "https://pastebin.com/X17UNiuN",
+    "groups": [{
+             "name": "Lista para todo el mundo",
+            "image": "https://media.giphy.com/media/giv0BXaL5cLOA8jmhp/giphy.gif",
+            "info": "",
+            "stations": [{}]
+	}, {
+		"name": "Eventos deportivos  (Supercopa - La Euroliga)",
+		"image": "https://www.estrelladigital.es/media/estrelladigital/images/2019/02/11/2019021122542897090.png",
+		"info": "",
+		"stations": [{
+			"name": "Real Madrid - Athletic Club",
+			"image": "https://i.ibb.co/YP3rDY1/Liga-Santander.jpg",
+          "url" : "https://dailysport.surf/c15.php",
+			"userAgent": "shrink-to-fit=no"
+                }
