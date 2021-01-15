@@ -321,7 +321,16 @@
                 "embed":"true"
                 
                
-                  }
+                  },{
+            "name": "Eventos deportivos mix (Hoy UFC)",
+            "image": "https://i.ibb.co/GVWQTzN/Sin-t-tulo.gif",
+            "info": "",
+            "stations": [{
+                "name": "Evento 1-Nunes # Spencer",
+                    "image": "https://as01.epimg.net/masdeporte/imagenes/2020/06/05/polideportivo/1591389809_104658_1591389885_noticia_normal_recorte1.jpg",
+                    "url": "https://successstudios.co/11-real-madrid-vs-atletic-club/",
+                    "isHost":"true"
+                }
                   
              
                
