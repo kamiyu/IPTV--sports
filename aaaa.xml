@@ -732,7 +732,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 <item>
 <title>[COLOR palegreen]VipRacing [B]ESPN 2 SUR[/B][/COLOR]  </title>
-<link>$doregex[get]|Referer=https://live-tennis.stream/stream/45459.html&amp;User-Agent=ipad</link>
+<link>$doregex[get]|Referer=https://newdmn.icu/stream/54014.html&amp;User-Agent=ipad</link>
 <regex>
 <name>get</name>
 <expres>source: '(.*?)'</expres>
