@@ -731,12 +731,12 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[COLOR palegreen]VipRacing [B]ESPN 2 SUR[/B][/COLOR]  </title>
+<title>[COLOR palegreen]VipRacing [B]ESPN 1 SUR[/B][/COLOR]  </title>
 <link>$doregex[get]|Referer=https://newdmn.icu/stream/54014.html&amp;User-Agent=ipad</link>
 <regex>
 <name>get</name>
 <expres>source: '(.*?)'</expres>
-<page>https://sportsbay.org/stream/1/54014.html</page>
+<page>https://sportsbay.org/watch/54014/1/espn-2-sur-live.html</page>
 </regex>
 <thumbnail>http://blackaddon.com/gray/img/deportes.png</thumbnail>
 </item>
