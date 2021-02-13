@@ -1,0 +1,662 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+<items>
+
+<!--sportsdevil iguide-->
+
+<item>
+<title>sportsdevil iguide</title>
+	<sportsdevil>http://www.iguide.to/embedplayer_new.php?channel=33454&autoplay=true</sportsdevil>
+	<referer>http://www.iguide.to</referer>
+</item>
+
+<!--sportsdevil Janjua-->
+
+<item>
+<title>sportsdevil janjua</title>
+<sportsdevil>http://aflam4you.tv/art-aflam-1-hd_23.html</sportsdevil>
+<referer>http://aflam4you.tv</referer>
+</item>
+
+<item><title>[COLOR lightblue]SKY SPORT[/COLOR] [COLOR lightslategray][I]sportsdevil[/I][/COLOR] </title><sportsdevil>https://streamsport.pro/live/84.php</sportsdevil>
+<thumbnail>http://satcesc.com/web/wp-content/uploads/2015/08/canal-plus-partidazo.jpg</thumbnail>
+<info>canal plus partidazo  </info>
+<referer>https://streamsport.pro</referer></item>
+
+<item><title>[COLOR lightblue]SKY [/COLOR] [COLOR lightslategray][I]sportsdevil[/I][/COLOR] </title><sportsdevil>http://mitv.televall.online/telemundoint.php</sportsdevil>
+<thumbnail>http://satcesc.com/web/wp-content/uploads/2015/08/canal-plus-partidazo.jpg</thumbnail>
+<info>canal plus partidazo  </info>
+<referer>http://www.televall.online</referer></item>
+
+
+<item><title>[COLOR lightblue]Deporte [/COLOR]  [COLOR lightslategray][I]sportsdevil[/I][/COLOR] </title><sportsdevil>http://www.ligatv.online/espn1-mx.php</sportsdevil><referer>http://www.ligatv.online</referer>
+<thumbnail>http://coditelcordoba.com/wp-content/uploads/2014/07/canal+liga.jpg</thumbnail></item>
+
+
+
+<!--Listas m3u/rtmp link-->
+
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue] Lista M3U/P[/COLOR] </title>
+<link>http://ignorame</link>
+<thumbnail>http://es.testsworld.net/files/2013/02/test-de-deporte.jpg</thumbnail>
+<fanart>http://7-themes.com/data_images/out/31/6874905-auto-wallpapers.jpg</fanart>
+<Externallink>http://blackaddon.com/n23/eventos.m3u</Externallink>
+</item>
+
+<!--Listas w3u/rtmp link-->
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue] Lista w3u/P[/COLOR] </title>
+<link>http://ignorame</link>
+<thumbnail>http://es.testsworld.net/files/2013/02/test-de-deporte.jpg</thumbnail>
+<fanart>http://7-themes.com/data_images/out/31/6874905-auto-wallpapers.jpg</fanart>
+<Externallink>https://pastebin.com/raw/X17UNiuN</Externallink>
+</item>
+
+<!--regex vimeo -->
+
+<item>
+<title>VIMEO  </title>        
+<link>https://player.vimeo.com/video/163874701?autoplay=1</link>
+</item>
+
+<!--F4m Archivos HLS -->
+
+<item>
+            <title>m3u8 HLS F4m Tester</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL919/PROFILE03.m3u8</link>
+			<thumbnail></thumbnail>
+			</item>
+
+<!--F4m Archivos TS -->
+			
+<item>
+            <title>F4m Archivos TS</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ORBIT-IPTV.COM:2500/live/bank/bank/63.ts</link>
+			<thumbnail></thumbnail>
+			</item>
+
+<!--m3u8  -->
+
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR orangered][B] m3u8 ...[/B][/COLOR] </title>
+<link>https://e9.dotice.me/plyvivo/zu4uhow0jaj08or0vu3e/playlist.m3u8|User-Agent=Mozilla%2F5.0+%28Linux%3B+Android+9%3B+SM-J701M+Build%2FPPR1.180610.011%3B+wv%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Version%2F4.0+Chrome%2F88.0.4324.152+Mobile+Safari%2F537.36|Referer=https%3A%2F%2Fwww.plytv.me%2Fsdembed%3Fv%3Depl2fu</link>
+<thumbnail>http://es.testsworld.net/files/2013/02/test-de-deporte.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR orangered][B] m3u8 ...[/B][/COLOR] </title>
+<link>http://156.96.44.13:8081/televall2021/71_.m3u8?md5=cPa19tySOFFAdY3ndRkBmw&expires=1604756730</link>
+<thumbnail>http://es.testsworld.net/files/2013/02/test-de-deporte.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR orangered][B] ESPN2 ...[/B][/COLOR] </title>
+<link>https://e10.stephn.xyz/ingestnb4s/espn2_sur/master.m3u8|Referer=https://newdmn.icu/stream/54014.html&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0&origin=https://newdmn.icu'
+  else:
+   return
+</link>
+<thumbnail>http://es.testsworld.net/files/2013/02/test-de-deporte.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR red][B] ESPN12 ...[/B][/COLOR] </title>
+<link>https://e10.stephn.xyz/ingestnb4s/espn2_sur/d.m3u8|Referer=https://telerium.club/embed/57853.html&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0&origin=https://telerium.club'
+  else:
+   return
+</link>
+<thumbnail>http://es.testsworld.net/files/2013/02/test-de-deporte.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR red][B] ESPN13 ...[/B][/COLOR] </title>
+<link>https://e9.dotice.me/plyvivo/niduyo9ufosa3anasaze/playlist.m3u8|Referer=https://www.plytv.me/sdembed?v=lal2fa&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0&origin=https://www.plytv.me'
+  else:
+   return
+</link>
+<thumbnail>http://es.testsworld.net/files/2013/02/test-de-deporte.jpg</thumbnail>
+</item>
+
+
+
+
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR orange][B] LIGUE ...[/B][/COLOR] </title>
+<link>https://abr-h.eu-central-1.edge.mycdn.live:443/live/bolabolabr/bolabolabr_1000/playlist.m3u8|Referer=https://futemax.live&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0&origin=https://futemax.live'
+  else:
+   return
+</link>
+<thumbnail>http://es.testsworld.net/files/2013/02/test-de-deporte.jpg</thumbnail>
+</item>
+
+https://e5.habrox.xyz/ingest01/44394.m3u8?sf=THV2YWg4ZDdJMA==&token=LYfcJVHIYA9iEjgtqWB1SQ&expires=1604795012&rnd=
+
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR orangered][B] PRUEBA...[/B][/COLOR] </title>
+<link>https://abr-h.eu-central-1.edge.mycdn.live:443/live/sportv/sportv_350/playlist.m3u8|Referer=https://futemax.live&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0&origin=https://futemax.live'
+  else:
+   return
+</link>
+<thumbnail>http://es.testsworld.net/files/2013/02/test-de-deporte.jpg</thumbnail>
+</item>
+
+<!--Regex Ucaster-->
+
+		<item>
+<title>[COLOR lime]•[/COLOR][COLOR orangered][B] Regex Ucaster[/B][/COLOR] </title>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.pubucaster.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>m3u8</name>
+<expres>ea \+ "(.*?)"</expres>
+<page>https://live.latino-web-tv.com/media/8.m3u8?token=U2FsdGVkX1%2BB0KPT0KCIiLhpdEFMwTlrf8N9imnFudUBrsz1sLBFW6aBIM0913hVXcKAVf2zlG7SW6%2FdWKOyaaFXG7d5jeXAPDnhsvkuA40%3D&expires=1604751484&expires2=U2FsdGVkX1%2FVNpNgc7CMXfYRzxf5wBPpvRyo3gMCJ5w%3D&ip=190.87.162.11</page>
+<agent>Mozilla%2F5.0+%28Linux%3B+Android+9%3B+SM-J701M+Build%2FPPR1.180610.011%3B+wv%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Version%2F4.0+Chrome%2F86.0.4240.110+Mobile+Safari%2F537.36</agent>
+<referer>=https%3A%2F%2Fwww.latino-web-tv.com%2Fembed%2Fespn2|Cookie=_ga%3DGA1.2.1584164464.1595045043%3B+__dtsu%3D10401591390595C314CA71F86BCF277F%3B+__utmc%3D166040483%3B+__cfduid%3Dd0e20472a7e53cb41fc6d50f5599b1f791604729475%3B+_gid%3DGA1.2.1513466197.1604729479%3B+__utma%3D166040483.1584164464.1595045043.1602526514.1604729480.3%3B+__utmz%3D166040483.1604729480.3.3.utmcsr%3Dgoogle%7Cutmccn%3D%28organic%29%7Cutmcmd%3Dorganic%7Cutmctr%3D%28not%2520provided%29%3B+__utmt%3D1%3B+__utmb%3D166040483.1.10.1604729480
+</referer>
+</regex>
+<thumbnail>http://y.cdn.entutele.com/media/channels/big/fox-1.gif</thumbnail></item>
+
+<!--Regex MIPS -->
+
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR orangered][B] Regex Mips[/B][/COLOR] </title>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://cdn.mipspublisher.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>m3u8</name>
+<expres>ea \+ "(.*?)"</expres>
+<page>http://www.mips.tv/membedplayer/verliga2223/1/680/380</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<referer>http://www.mips.tv</referer>
+</regex>
+<thumbnail>http://y.cdn.entutele.com/media/channels/big/golden-hd.gif</thumbnail></item>
+
+
+
+
+<!--Lista Streamup-->
+
+<item>
+<title> [COLOR lime]Lista Streamup[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<item> <title>[COLOR hotpink][makelist.param1][/COLOR][COLOR pink]   ([makelist.param2])[/COLOR]</title> 
+<link>https://$doregex[get-response]/app/$doregex[get-id]_aac/playlist.m3u8</link>
+<regex><name>get-response</name><expres>(.*)</expres>
+<page>https://lancer.streamup.com/api/redirect/$doregex[get-id]</page></regex>
+<regex><name>get-id</name><expres>"roomSlug": "(.*?)"</expres>
+<page>http://streamup.com/[makelist.param1]</page></regex>
+<info>[makelist.param2]</info>
+<fanart>[makelist.param3]</fanart>
+<thumbnail>[makelist.param3]</thumbnail>
+</item>
+]]></listrepeat>
+<expres>play-btn" href="/(.*?)"[\w\W\s]{0,50}alt="(.*?)"[\w\W\s]{0,160}src="(.*?)"</expres>
+<page>https://streamup.com/search?q=entertainment</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<!--Filmon-->
+
+<item>
+  <title>Regex Filmon</title>
+  <link>$doregex[sxlink]</link>
+  <regex>
+    <name>sxlink</name>
+    <expres><![CDATA[high.stream.*?(http.*?)[",']\W]]></expres>
+    <page>http://www.filmon.com/api-v2/channel/$doregex[ch_id]</page>
+    <referer>http://www.filmon.com/tv/channel/export?channel_id=$doregex[ch_id]</referer>
+    <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36</agent>
+    <accept>*/*; q=0.01</accept>
+    <cookieJar></cookieJar>
+    </includeheaders>
+  </regex>
+  <regex>
+    <name>ch_id</name>
+    <expres><![CDATA[clicked_channel_id.*?[",'](.*?)[",']\W]]></expres>
+    <page>https://www.filmon.com/tv/rt-espanol</page>
+    <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36</agent>
+    <accept>*/*; q=0.01</accept>
+    <cookieJar></cookieJar>
+    </includeheaders>
+  </regex>
+</item>
+
+<!--Youtube-->
+
+<item>
+<title>Youtube</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=9fZDyRVB8ZE</link>
+</item>
+
+            <!-- Vaughsoft-->
+            
+			<item>
+			<title>[COLOR lime]•[/COLOR][COLOR orangered][B] Vaughsoft[/B][/COLOR]</title>
+			<link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_simpson_mania live=1 timeout=20</link>
+			<regex>
+			<name>clearCode</name>
+			<expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres>
+			<page></page>
+			</regex>
+			<regex>
+			<name>getencoded</name>
+			<expres>:mvnkey-(.*)</expres>
+			<page>$doregex[getUrl]</page>
+			</regex>
+			<regex>
+			<name>getserver</name>
+			<expres>(.*?);</expres>
+			<page>$doregex[getUrl]</page>
+			</regex>
+			<regex>
+			<name>getUrl</name>
+			<expres>(.*)</expres>
+			<page>http://mvn.vaughnsoft.net/video/edge/live_simpson_mania$doregex[gettime]-$doregex[gettime].33434</page>
+			</regex>
+			<regex>
+			<name>gettime</name>
+			<expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
+			<page></page>
+			</regex>
+			<thumbnail>https://simpsonswiki.com/w/images/4/41/Simpmanialogosm.gif</thumbnail>
+			<fanart>http://4.bp.blogspot.com/-QnBB6FP4d18/UzI30Kzb36I/AAAAAAAABSc/0baKzgZVdPo/s1600/preview.png</fanart>
+			</item>
+
+  <!-- Zerocast-->
+			
+<item>
+<title>regex zerocast.tv</title>
+<link>$doregex[get-rtmp] app=$doregex[get-app] playpath=$doregex[get-path] swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf flashVer=WIN\2020,0,0,286 swfVfy=1 live=1 timeout=13 pageUrl=http://zerocast.tv/embed.php?a=1996&id=&width=728&height=400&autostart=true&strech=exactfit</link>
+
+<regex>
+<name>get-rtmp</name>
+<expres>file: unescape.*?'(.*)\/.*'</expres>
+<page>$doregex[clearCode]</page>
+<referer>http://zerocast.tv</referer>
+<agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36</agent>
+</regex>
+
+<regex>
+<name>get-app</name>
+<expres>unescape.*?(liveedge\/.*)\/.*'</expres>
+<page>$doregex[clearCode]</page>
+<referer>http://zerocast.tv</referer>
+<agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36</agent>
+</regex>
+
+<regex>
+<name>get-path</name>
+<expres>file: unescape.*\/(.*)'</expres>
+<page>$doregex[clearCode]</page>
+<referer>http://zerocast.tv</referer>
+<agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36</agent>
+</regex>
+
+<regex>
+<name>clearCode</name>
+<expres>$pyFunction:'$doregex[get-a=]'.replace("&","&amp;")</expres>
+<page></page>
+</regex>
+
+<regex>
+<name>get-a=</name>
+<expres>var url = '(.*?)';</expres>
+<page>http://zerocast.tv/channel.php?a=1996&width=700&height=480&autostart=true</page>
+<referer>http://zerocast.tv</referer>
+<agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36</agent>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<!-- liveonlinetv-->
+
+<item>
+<title>liveonlinetv</title>
+<link>$doregex[get_sxstream]|User-Agent=iPhone</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/canal+futbol.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
+</item>
+
+
+<thumbnail>http://blackaddon.com/gray/img/deportes.png</thumbnail></item>
+
+<item><!-- CHIVAS69-->
+<title> [COLOR skyblue]●[/COLOR]    [COLOR palegreen][B]CHIVAS69[/B]  [/COLOR] [COLOR lightslategray] [/COLOR]</title>
+
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR lightgreen][B][#BG] CHIVAS69[/B][/COLOR]  [makelist.param1]</title>
+<link>$doregex[geturl]|Referer=$doregex[canal]&amp;User-Agent=ipad&amp;Referer=http://anahix11.com/</link>
+<thumbnail>http://blackaddon.com/gray/img/deportes.png</thumbnail>
+]]></listrepeat>
+<expres>-(.*?)=(.*?)"</expres>
+<page>-Telemundo =http://anahix11.com/chivas3.php"-Univision=http://anahix11.com/univi.php"-Unimas=http://anahix11.com/canal7.php"-nbc universo=http://anahix11.com/nbcuniverse.php"-TUDN=http://anahix11.com/tudn.php"</page>
+</regex>
+
+	<regex>
+        <name>geturl</name>
+        <expres>(?:file|source|src):.*?"(.*?)"</expres>
+        <page>$doregex[getunpacked]</page>
+    </regex>
+    <regex>
+        <name>getunpacked</name>
+        <expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)' )</expres>
+       <page>$doregex[canal]</page>
+        <referer>http://anahix11.com/canal7.php</referer>
+        <connection>keep-alive</connection>
+    </regex>
+	 <regex>
+        <name>canal</name>
+        <expres>iframe src="(.*?)"</expres>
+        <page>[makelist.param2]</page>
+		<referer>https://www.chivass69.com/</referer>
+    </regex>
+
+<thumbnail>http://blackaddon.com/gray/img/deportes.png</thumbnail></item>
+
+<item><!-- TOTALSPOR-->
+<title> [COLOR red]●[/COLOR]    [COLOR palegreen][B]TOTAL[/B]  [/COLOR] [COLOR lightslategray] [/COLOR]</title>
+
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR lightgreen][B][#BG] TOTAL[/B][/COLOR]  [makelist.param1]</title>
+<link>$doregex[geturl]|Referer=$doregex[canal]&amp;User-Agent=ipad&amp;Referer=https://totalsport.me/</link>
+<thumbnail>http://blackaddon.com/gray/img/deportes.png</thumbnail>
+]]></listrepeat>
+<expres>-(.*?)=(.*?)"</exp
+
+<t
+
+<thumbnail>http://blackaddon.com/gray/img/deportes.png</thumbnail></item>
+
+<item><!-- MiFut -->
+<title> [COLOR skyblue]●[/COLOR]    [COLOR palegreen][B]LIGATV/B]  [/COLOR] [COLOR lightslategray] [/COLOR]</title>
+<link>$doregex[getc]</link>
+
+<regex>
+<name>getc</name>
+<listrepeat><![CDATA[
+<title>[B][getc.param2]   [COLOR palegreen][/COLOR][/B]   [COLOR lightslategray][I](LIGATV)[/I][/COLOR]</title>
+<link>$doregex[getUrl]</link>
+<thumbnail>[getc.param3]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[fg-item-inner.*?href="(http.*?\.online\/(.*?)\..*?)".*?data-src-fg="(.*?)"]]></expres>
+<page>http://www.ligatv.online/mas-canales/</page>
+</regex> 
+
+
+
+
+
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[source: '(.+?)']]></expres>
+<page>$doregex[php]$doregex[fid]_#</page>
+</regex> 
+
+
+ <regex>
+<name>php</name>
+<expres>src=\"(.+?)\'</expres>
+<page>$doregex[js]</page>
+<referer>http://www.ligatv.online/mas-canales/</referer>
+</regex>
+
+ <regex>
+<name>js</name>
+<expres>fid=[\w\W]*?src=[\'|"](http.+?)[\'|"]</expres>
+<page>[getc.param1]</page>
+</regex>
+
+<regex>
+<name>fid</name>
+<expres><![CDATA[fid='(.+?)']]></expres>
+<page>[getc.param1]</page>
+</regex> 
+
+<thumbnail>http://blackaddon.com/gray/img/deportes.png</thumbnail>
+<fanart>http://blackaddon.com/gray/img/fanart.jpg</fanart>
+</item>res>
+<page>-Telemundo =http://totalsport.me/skymain.html"-skymain=http://anahix11.com/univi.php"-Unimas=http://anahix11.com/canal7.php"-nbc universo=http://anahix11.com/nbcuniverse.php"-TUDN=http://anahix11.com/tudn.php"</page>
+</regex>
+
+	<regex>
+        <name>geturl</name>
+        <expres>(?:file|source|src):.*?"(.*?)"</expres>
+        <page>$doregex[getunpacked]</page>
+    </regex>
+    <regex>
+        <name>getunpacked</name>
+        <expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)' )</expres>
+       <page>$doregex[canal]</page>
+        <referer>http://totalsport.me/skymain.html</referer>
+        <connection>keep-alive</connection>
+    </regex>
+	 <regex>
+        <name>canal</name>
+        <expres>iframe src="(.*?)"</expres>
+        <page>[makelist.param2]</page>
+		<referer>https://www.totalsport.me/</referer>
+    </regex>
+
+<thumbnail>http://blackaddon.com/gray/img/deportes.png</thumbnail></item>
+
+<item>
+<title>testing Wiseplay list </title>
+<link>$doregex[makelist2]</link>
+
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+  <title>[COLOR white] [makelist2.param2] [/COLOR]</title>
+  <link>$doregex[id3]</link>
+  <fanart>[makelist2.param1]</fanart>
+  <thumbnail>[makelist2.param1]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[EXTINF:-1 tvg-logo="(.*?)" ,(.*?)\n(http.*?)\s]]></expres>
+<page>http://blackaddon.com/web/w3u.php?paste=https://pastebin.com/raw/X17UNiuN</page>
+</regex>
+
+<thumbnail>http://blackaddon.com/gray/img/deportes.png</thumbnail></item>
+
+<item><!-- MiFut -->
+<title>[COLOR palegreen]●[/COLOR][COLOR lightslategray]●[/COLOR][COLOR lightslategray]●[/COLOR]  [COLOR lightcyan][B]AGENDA [/COLOR][COLOR lightblue]MIFUT[/COLOR][/B]  [COLOR lightslategray] [/COLOR]</title>
+<link>$doregex[getc]</link>
+
+<regex>
+<name>getc</name>
+<listrepeat><![CDATA[
+<title>[B][getc.param2]   [COLOR palegreen][getc.param3][/COLOR][/B]   [COLOR lightslategray][I](miFut)[/I][/COLOR]</title>
+<link>$doregex[getUrl]</link>
+<thumbnail>http://mifut.radiotormentamx.com/[getc.param4]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[class='t'>(.+?)<.*?class.*?class.*?>(.+?)<|a\shref="(.+?)\.php.*?src="(.*?)"]]></expres>
+<page>https://www.ligatv.online/partidos-hoy.html</page>
+</regex> 
+
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[source: '(.+?)']]></expres>
+<page>$doregex[php]$doregex[fid]_</page>
+</regex> 
+
+
+ <regex>
+<name>php</name>
+<expres>src=\"(.+?)\'</expres>
+<page>$doregex[js]</page>
+<referer>http://mifut.ligatv.online/beinhd.php</referer>
+</regex>
+
+ <regex>
+<name>js</name>
+<expres>fid=[\w\W]*?src=[\'|"](http.+?)[\'|"]</expres>
+<page>http://mifut.ligatv.online/[getc.param3].php</page>
+</regex>
+
+<regex>
+<name>fid</name>
+<expres><![CDATA[fid=\'(.+?)\']]></expres>
+<page>http://mifut.ligatv.online/[getc.param3].php</page>
+</regex> 
+
+<thumbnail>http://blackaddon.com/gray/img/deportes.png</thumbnail>
+<fanart>http://blackaddon.com/gray/img/fanart.jpg</fanart>
+</item>
+
+
+<item> <!--SOLOVEO AGENDA-->
+<title>[COLOR palegreen]●[/COLOR][COLOR lightslategray]●[/COLOR][COLOR lightslategray]●[/COLOR]  [COLOR lightcyan][B]AGENDA [/COLOR][COLOR lightblue]DEPORTIVA SUR[/COLOR][/B]  [COLOR lightslategray] [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR deepskyblue][B][#BG][/B][/COLOR] [B][COLOR yellow][makelist.param1][/COLOR]  [COLOR white][makelist.param3][/COLOR] [COLOR lightgreen][makelist.param5][/COLOR] [COLOR skyblue][makelist.param2][/COLOR]  [COLOR teal][makelist.param6][/COLOR][/B]</title>
+<link>$doregex[url]</link>
+<thumbnail>http://blackaddon.com/gray/img/deportes.png</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[b>(A.*?)<|\#\".*?\n(.*?)\n.*?t">(.*?)<[\w\W]*?href="(.*?)".*?>(.*?)<.*?>(.*?)<]]></expres>
+<page>https://zdhdse.foroactivo.com/h32-udn</page>
+</regex>
+
+
+
+<regex>
+<name>url</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+  import re, requests, xbmc, xbmcgui
+  url='[makelist.param5]'
+  if 'ESPN 3' in url:
+   return 'https://e10.habrox.xyz/ingestnb4s/espn3_sur/d.m3u8|Referer=https://telerium.live/embed/37388.html&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0&origin=https://telerium.live'
+  elif 'ESPN 2' in url:
+   return 'https://e10.habrox.xyz/ingestnb4s/espn2_sur/d.m3u8|Referer=https://telerium.live/embed/37388.html&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0&origin=https://telerium.live'
+  elif 'ESPN' in url:
+   return 'https://e10.habrox.xyz/ingestnb4s/espn_sur/d.m3u8|Referer=https://telerium.live/embed/37388.html&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0&origin=https://telerium.live'
+  else:
+   return 'http://blackaddon.com/scr/tele.php?id=$doregex[canal]|Referer=https://telerium.live/embed/37388.html&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0&origin=https://telerium.live'
+]]></expres>
+<page></page>
+<referer>$doregex[page]</referer>
+</regex>
+
+<regex>
+<name>url2</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+  from resolveurl.plugins.lib import jsunpack
+  import re, requests, urllib
+  return 'http://blackaddon.com/scr/tele.php?id=$doregex[canal]|Referer=https://telerium.live/embed/37388.html&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0&origin=https://telerium.live'
+]]></expres>
+<page></page>
+<referer>$doregex[page]</referer>
+</regex>
+
+
+<regex>
+<name>canal</name>
+<expres>id='(.+?)'</expres>
+<page>$doregex[page]</page>
+</regex>
+
+<regex>
+<name>page</name>
+<expres>src="(htt.*?pelota.*?)"</expres>
+<page>[makelist.param4]</page>
+</regex>
+
+
+<thumbnail>http://blackaddon.com/gray/img/deportes.png</thumbnail></item>
+
+
+<item>
+<title>[COLOR palegreen]VipRacing [B]ESPN 3 SUR[/B][/COLOR]  </title>
+<link>$doregex[get]|Referer=https://live-tennis.stream/stream/45459.html&amp;User-Agent=ipad</link>
+<regex>
+<name>get</name>
+<expres>source: '(.*?)'</expres>
+<page>https://sportsbay.org/stream/1/71834.html</page>
+</regex>
+
+<thumbnail>http://blackaddon.com/gray/img/deportes.png</thumbnail></item>
+
+
+<item>
+<title>[COLOR palegreen]VipRacing [B]ESPN 3 SUR[/B][/COLOR]  </title>
+<link>$doregex[get]|Referer=https://vergol.com/canales228/live3/verliga.php&amp;User-Agent=ipad</link>
+<regex>
+<name>get</name>
+<expres>source: '(.*?)'</expres>
+<page>https://vergol.com/canales228/live3/verliga.php</page>
+</regex>
+<thumbnail>http://blackaddon.com/gray/img/deportes.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR palegreen]VipRacing [B]MOVISTAR (3) [/B][/COLOR]  </title>
+<thumbnail></thumbnail>
+<link>https:$doregex[getURL]|Origin=https://vergol.com&amp;Referer=https://vergol.com/&amp;User-Agent=iPad</link>
+<regex>
+<name>getURL</name>
+<expres>\/player\/player\.js[\w\W]*?source.*?\'(.+?)\'</expres>
+<page>https://vergol.com/canales228/live3/campeones.php</page>
+<post>manzana66:12345</post>
+<referer>https://vergol.com/</referer>
+</regex>
+</item>
+
+<item>
+<title>[COLOR palegreen]VipRacing [B]MOVISTAR (3) [/B][/COLOR]  </title>
+<thumbnail></thumbnail>
+<link>https:$doregex[getURL]|Origin=https://vergol.com&amp;Referer=https://vergol.com/&amp;User-Agent=iPad</link>
+<regex>
+<name>getURL</name>
+<expres>\/player\/player\.js[\w\W]*?source.*?\'(.+?)\'</expres>
+<page>https://vergol.com/canales228/live3/futbol.php</page>
+<post>manzana66:12345</post>
+<referer>https://vergol.com/</referer>
+</regex>
+</item>
+
+<item>
+<title>DIRECTV SPORTS</title>
+<link>$doregex[getM3U8]</link>
+<regex>
+<name>getM3U8</name>
+<expres><![CDATA[#$pyFunction
+import re,requests,jsunpack
+def GetLSProData(page_data,Cookie_Jar,m):
+    idlink=re.findall('iframe src="(.*?)"',page_data)[0]
+    url=requests.get(idlink,cookies=Cookie_Jar,headers={'user-agent':'Mozilla/5.0','referer':'https://www.ver-deportes.online/canales-de-deportes-en-vivo-online'}).content
+    stream=jsunpack.unpack(re.findall('(eval.*(?:m3u8|mp4).*)',url)[0])
+    link=re.findall('source:"(.*?)"',stream)[0]
+    return link
+]]></expres>
+<page>https://www.ver-deportes.online/espn-mexico-en-vivo.html</page>
+</regex>
+</item>
+
