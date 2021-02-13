@@ -736,7 +736,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <regex>
 <name>get</name>
 <expres>source: '(.*?)'</expres>
-<page>https://sportsbay.org/watch/54014/1/espn-2-sur-live.html</page>
+<page>https://sportsbay.org/stream/1/54014.html</page>
 </regex>
 <thumbnail>http://blackaddon.com/gray/img/deportes.png</thumbnail>
 </item>
