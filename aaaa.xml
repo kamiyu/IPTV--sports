@@ -669,3 +669,18 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </regex>
 </item>
 
+
+<item>
+<title>UFC 257</title>
+<link>$doregex[getLink]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36&amp;Referer=http://crackstreams.biz/watch/610</link>
+<thumbnail></thumbnail>
+<fanart></fanart>   
+<regex>
+<name>getLink</name>
+<expres><![CDATA[source:\s*"([^"]+)]]></expres>
+<page>http://crackstreams.biz/watch/610</page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+
