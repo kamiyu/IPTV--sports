@@ -18,7 +18,8 @@ https://wmaqlive-f.akamaihd.net/i/wmaqb1_1@24420/index_1286_av-b.m3u8?sd=10&reba
 #######################################
 
 #EXTINF:-1 tvg-logo="https://www.cn247.tv/img/logo.png" group-title="01- PREMIER-LIGUE",DAZN
-http://51.178.65.221:32325/egress/af3406be52c9c3b9/E-NORTE/index.m3u8
+http://cdn1002.telerium.online:2052/free10/270/chunks.m3u8?nimblesessionid=16525864&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNi8yMDIxIDE6MTI6MDggUE0maGFzaF92YWx1ZT1ObVJ0S045TzVSRmkxLzl0eVRWek1RPT0mdmFsaWRtaW51dGVzPTI0MA==
+
 
 #EXTINF:-1 tvg-logo="https://www.cn247.tv/img/logo.png" group-title="01- PREMIER-LIGUE",SKY1 SPORT
 http://51.178.65.221:32325/egress/af3406be52c9c3b9/E-NORTE/index.m3u8
