@@ -35,7 +35,9 @@ http://23.237.78.54/live-1000/280/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8z
 http://51.178.65.221:32325/egress/af3406be52c9c3b9/E-NORTE/index.m3u8
 
 #EXTINF:-1,TUDN 1HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xgtv.club:8080/gratis5245954/gtv4785861/109785.ts
+https://nl1.streamlive.to:443/freeabr/ed91npumi2kidmk/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNy8yMDIxIDg6MzI6MzEgUE0maGFzaF92YWx1ZT0vckFWL2o1VmduU2VhdFppNnl1U3hnPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj0yMyZpZD0zOTE3MDA=
+|User-Agent=Mozilla / 5.0 (Windows NT 6.1; WOW64; rv: 45.0) Gecko / 20100101 Firefox / 45.0|Referer=https%3A%2F%2Fwww.streamlive.to%2Fembedplayer.php%3Fchannel%3D79253%26autostart%3Dtrue|Cookie=_ga%3DGA1.2.492882143.1592597377%3B+_gid%3DGA1.2.1685716851.1614457568%3B+_gat%3D1
+
 
 #EXTINF:-1,TUDN HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdn1002.telerium.online:2052/free10/270/chunks.m3u8?nimblesessionid=16525864&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNi8yMDIxIDE6MTI6MDggUE0maGFzaF92YWx1ZT1ObVJ0S045TzVSRmkxLzl0eVRWek1RPT0mdmFsaWRtaW51dGVzPTI0MA==
