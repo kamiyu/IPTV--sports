@@ -35,8 +35,8 @@ http://23.237.78.54/live-1000/280/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8z
 http://51.178.65.221:32325/egress/af3406be52c9c3b9/E-NORTE/index.m3u8
 
 #EXTINF:-1,TUDN 1HD
-https://nl1.streamlive.to:443/freeabr/ed91npumi2kidmk/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNy8yMDIxIDg6MzI6MzEgUE0maGFzaF92YWx1ZT0vckFWL2o1VmduU2VhdFppNnl1U3hnPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj0yMyZpZD0zOTE3MDA=
-|User-Agent=Mozilla / 5.0 (Windows NT 6.1; WOW64; rv: 45.0) Gecko / 20100101 Firefox / 45.0|Referer=https%3A%2F%2Fwww.streamlive.to%2Fembedplayer.php%3Fchannel%3D79253%26autostart%3Dtrue|Cookie=_ga%3DGA1.2.492882143.1592597377%3B+_gid%3DGA1.2.1685716851.1614457568%3B+_gat%3D1
+https://e5.espncdn.me/ingest01/71388.m3u8?sf=NlFvVm50UUlWSQ==&token=dmpbWrMN9CpfzGQEfiMRug&expires=1614993371&rnd=||User-Agent=Mozilla%2F5.0+%28Linux%3B+Android+9%3B+SM-J701M+Build%2FPPR1.180610.011%3B+wv%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Version%2F4.0+Chrome%2F88.0.4324.181+Mobile+Safari%2F537.36
+|Referer=https://telerium.digital/embed/71388.html
 
 
 #EXTINF:-1,TUDN HD
