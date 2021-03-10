@@ -32,11 +32,10 @@ http://23.237.78.54/live-1000/280/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8z
 #######################################
 
 #EXTINF:-1 tvg-logo="https://www.cn247.tv/img/logo.png" group-title="02- LA LIGA",SKY-SPORT MX
-http://51.178.65.221:32325/egress/af3406be52c9c3b9/E-NORTE/index.m3u8
+https://e10.espncdn.me/ingestnb4s/espn_sur/f.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0|Referer=https://telerium.digital/embed/59725.html
 
 #EXTINF:-1,TUDN 1HD
-https://e5.espncdn.me/ingest01/71388.m3u8?sf=NlFvVm50UUlWSQ==&token=dmpbWrMN9CpfzGQEfiMRug&expires=1614993371&rnd=||User-Agent=Mozilla%2F5.0+%28Linux%3B+Android+9%3B+SM-J701M+Build%2FPPR1.180610.011%3B+wv%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Version%2F4.0+Chrome%2F88.0.4324.181+Mobile+Safari%2F537.36
-|Referer=https://telerium.digital/embed/71388.html
+https://e10.espncdn.me/ingestnb4s/espn_sur/f.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0|Referer=https://telerium.digital/embed/59725.html
 
 
 #EXTINF:-1,TUDN HD
