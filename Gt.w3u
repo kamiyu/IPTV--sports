@@ -15,9 +15,9 @@
             "image": "https://www.jokerlivestream.net/templates/images/logojoker.jpg?v=1",
             "info": "",
             "stations": [{
-                    "name": "joker - Liga",
+                    "name": "Livetv.sx",
                     "image": "https://www.jokerlivestream.net/templates/images/logojoker.jpg?v=1",
-                    "url": "https://www.jokerlivestream.net/joker-la-liga-live-stream-16.html",
+                    "url": "http://livetv.sx/es/",
                     "embed":"true"
                 },{
                     "name": "joker - Bundesliga",
