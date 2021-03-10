@@ -28,7 +28,7 @@ https://m3u-editor.com/serve/rokumaniatest/156476771
 https://e10.espncdn.me/ingestnb4s/espn_sur/f.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aYPcCuP.jpg" group-title="Laliga♤", | FHD | Futbol2
-https://e10.espncdn.me/ingestnb4s/espn_sur/f.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
+https://e10.espncdn.me/ingestnb4s/espn_sur/f.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yO19Ju4.png" group-title="EventosVIP☆", -EventosVIP☆-
 https://d107hql7o7vd84.cloudfront.net:443/out/v1/ce38156ea93a47709cec829647e9b0ce/index_3.m3u8
