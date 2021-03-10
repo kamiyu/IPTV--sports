@@ -21,15 +21,14 @@ https://hn2.gt-app.com/hls/i-LaLiga-i.m3u8
 https://m3u-editor.com/serve/rokumaniatest/156476771
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yO19Ju4.png" group-title="Laliga♤", -Laliga-
-https://dc621.4shared.com/img/M6-5z47Yea/2fc3cbbe/dlink__2Fdownload_2FM6-5z47Yea_3Fsbsr_3D1159caa366929ec9e93a6ba905d72ce6a45_26bip_3DMjAwLjEwNC42OC4xNg_26lgfp_3D66_26dsid_3Di7NWadMB.2d63303d77e557fc1446a7bab7a97fcb_26bip_3DMjAwLjEwNC42OC4xNg_26bip_3DMjAwLjEwNC42OC4xNg/preview.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yO19Ju4.png" group-title="Laliga♤", 
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3eb0Hhn.png" group-title="Laliga♤", | SD | Futbol
-http://ngv2.dnscd.xyz/hls/channel21hd41/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMC8yMDIxIDk6MDk6MDcgUE0maGFzaF92YWx1ZT1WTXg5VEJZeHZoOFAwT1h2TkdLUXpnPT0mdmFsaWRtaW51dGVzPTcw
+https://e10.espncdn.me/ingestnb4s/espn_sur/f.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0|Referer=https://telerium.digital/embed/59725.html
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aYPcCuP.jpg" group-title="Laliga♤", | FHD | Futbol2
-http://ngv2.dnscd.xyz/hls/channel21hd41/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMC8yMDIxIDk6MDk6MDcgUE0maGFzaF92YWx1ZT1WTXg5VEJZeHZoOFAwT1h2TkdLUXpnPT0mdmFsaWRtaW51dGVzPTcw
+https://e10.espncdn.me/ingestnb4s/espn_sur/f.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0|Referer=https://telerium.digital/embed/59725.html
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yO19Ju4.png" group-title="EventosVIP☆", -EventosVIP☆-
 https://d107hql7o7vd84.cloudfront.net:443/out/v1/ce38156ea93a47709cec829647e9b0ce/index_3.m3u8
