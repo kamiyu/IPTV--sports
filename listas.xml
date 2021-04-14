@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+<!--Listas m3u/rtmp link-->
+
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue] Lista M3U/P[/COLOR] </title>
+<link>http://ignorame</link>
+<thumbnail>http://es.testsworld.net/files/2013/02/test-de-deporte.jpg</thumbnail>
+<fanart>http://7-themes.com/data_images/out/31/6874905-auto-wallpapers.jpg</fanart>
+<Externallink>http://zozo20210.000webhostapp.com/black.m3u</Externallink>
+</item>
+
+<item> 
+<title>[COLOR=FF00FFFF]External m3u1 [COLOR=blue]•[/COLOR][COLOR=FF00CCFF] Test[/COLOR][/COLOR]</title> <link>http://ignorame</link> <externallink>http://zozo20210.000webhostapp.com/listapp.m3u</externallink> 
+</item> 
+
+<item> 
+<title>[COLOR=FF00FFFF]External m3u#2 [COLOR=blue]•[/COLOR][COLOR=FF00CCFF] Test[/COLOR][/COLOR]</title> <link>http://ignorame</link> <externallink>http://zozo20210.000webhostapp.com/roku.m3u</externallink> 
+</item> 
+
+<item> 
+<title>[COLOR=FF00FFFF]External m3u#3 [COLOR=blue]•[/COLOR][COLOR=FF00CCFF] Test[/COLOR][/COLOR]</title> <link>http://ignorame</link> <externallink>http://zozo20210.000webhostapp.com/black.m3u</externallink> 
+</item> 
+
+<item> 
+<title>[COLOR=FF00FFFF]External m3u#4 [COLOR=blue]•[/COLOR][COLOR=FF00CCFF] Test[/COLOR][/COLOR]</title> <link>http://ignorame</link> <externallink>http://zozo20210.000webhostapp.com/listagratis1.m3u</externallink> 
+</item> 
+
+<item> 
+<title>[COLOR=FF00FFFF]External m3u#5 [COLOR=blue]•[/COLOR][COLOR=FF00CCFF] Test[/COLOR][/COLOR]</title> <link>http://ignorame</link> <externallink>/storage/emulated/0/rege.m3u</externallink> 
+</item> 
+
+<item> 
+<title>[COLOR=FF00FFFF]External m3u#6 [COLOR=blue]•[/COLOR][COLOR=FF00CCFF] Test[/COLOR][/COLOR]</title> <link>http://ignorame</link> <externallink>sdcard/Download/ott_gratis9350188.m3u</externallink> 
+</item> 
+/
+
+<item> 
+<title>[COLOR=FF00FFFF]External m3u7 [COLOR=blue]•[/COLOR][COLOR=FF00CCFF] Test[/COLOR][/COLOR]</title> <link>http://ignorame</link> <externallink>https://pastebin.com/raw/X17UNiuN</externallink> 
+</item> 
+
+<item>
+<title>testing Wiseplay list </title>
+<link>$doregex[makelist2]</link>
+<regex>
+
+<name>makelist2</name>
+<listrepeat><![CDATA[
+  <title>[COLOR white] [makelist2.param2] [/COLOR]</title>
+  <link>$doregex[id3]</link>
+  <fanart>[makelist2.param1]</fanart>
+  <thumbnail>[makelist2.param1]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[EXTINF:-1 tvg-logo="(.*?)" ,(.*?)\n(http.*?)\s]]></expres>
+<page>http://blackaddon.com/web/w3u.php?paste=https://pastebin.com/raw/X17UNiuN
+</page>
+</regex>
+
