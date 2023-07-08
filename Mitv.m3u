@@ -1,38 +1,58 @@
-#EXTM3U
-
-#PLAYLISTV: pltv-logo="https://avatars1.githubusercontent.com/u/45984933?s=180&v=4" pltv-name="TOP.tv" pltv-description="CANALES IPTV" pltv-cover="https://avatars1.githubusercontent.com/u/45984933?s=180&v=4" pltv-author="TOP.tv"
-######################################################################################################################################
-######################################################################################################################################
-#EXTINF:-1 tvg-logo="https://avatars1.githubusercontent.com/u/45984933?s=180&v=4" group-title="01- LISTA GRATUITA",01- LISTA GRATUITA
-https://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
-#####################################################################################################################################
-
-######################################################################################################################################
-#EXTINF:-1 tvg-logo="https://avatars1.githubusercontent.com/u/45984933?s=180&v=4" group-title="02- Actualizada 14/07/19",02- Actualizada 14/07/19
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-gLn8FZ5MvqA/Xh88vH4b34I/AAAAAAAACrk/kCxwNmxvEjoPufAy6b-Sosn5XlsLfannQCLcBGAsYHQ/s320/Sportoka-TV-addon-kodi.png", FUTBOL.M3U
 https://stream.vagalume.fm/hls/1470155259220668/aac.m3u8
-#####################################################################################################################################
-######################################################################################################################################
-####################################### PREMIER-LIGUE
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2016/06/16/01/20/argentina-1460299_960_720.jpg" group-title="01- PREMIER-LIGUE",03- TELEMUNDO SOLO DOMINGO
-https://wmaqlive-f.akamaihd.net/i/wmaqb1_1@24420/index_1286_av-b.m3u8?sd=10&rebase=on
-#######################################
+#EXTINF:0 tvg-logo="http:///www.playstorear.com/wp-content/uploads/actualizar.png", Actualizada 14.09.2020
+https://stream.vagalume.fm/hls/1470155259220668/aac.m3u8
+#EXTINF:0 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/077ec66c-5081-4944-92df-fa9039d7f6a8-profile_image-300x300.png", http:///FUTBOL.me/FUTBOLIBRE
+https://stream.vagalume.fm/hls/1470155259220668/aac.m3u8
+#EXTINF:0 tvg-logo="https://d107a8nc3g2c4h.cloudfront.net/blog/wp-content/uploads/2018/03/dcsportskodi-resized-1024x596.jpg", @FUTBOLVIP503
+https://stream.vagalume.fm/hls/1470155259220668/aac.m3u8
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/690534331761057792/obu_uM65_400x400.jpg", @REBELDE FUTBOLERO
+https://stream.vagalume.fm/hls/1470155259220668/aac.m3u8
+#EXTINF:0 tvg-logo="https://tvboxbee.com/wp-content/uploads/2018/05/Highlights-Football-Kodi-Addon.jpg" , ListaGratis no venta
+https://stream.vagalume.fm/hls/1470155259220668/aac.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cn247.tv/img/logo.png" group-title="01- PREMIER-LIGUE",DAZN
-http://cdn1002.telerium.online:2052/free10/270/chunks.m3u8?nimblesessionid=16525864&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNi8yMDIxIDE6MTI6MDggUE0maGFzaF92YWx1ZT1ObVJ0S045TzVSRmkxLzl0eVRWek1RPT0mdmFsaWRtaW51dGVzPTI0MA==
+ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO
 
-
-#EXTINF:-1 tvg-logo="https://www.cn247.tv/img/logo.png" group-title="01- PREMIER-LIGUE",SKY1 SPORT
-http://51.178.65.221:32325/egress/af3406be52c9c3b9/E-NORTE/index.m3u8
-
-#####################################################################################################################################
-######################################################################################################################################
-####################################### LA LIGA
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2016/06/16/01/20/argentina-1460299_960_720.jpg" group-title="02- LA LIGA",03- EVENTO 1 BOCA VS RIVER
-http://23.237.78.54/live-1000/280/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zLzIwMjEgMTI6MzI6MDAgQU0maGFzaF92YWx1ZT01TStQajg2bHJ2anlVMmxhSG04cHVRPT0mdmFsaWRtaW51dGVzPTEyMCZzdHJtX2xlbj0xMw==
-#######################################
-
-#EXTINF:-1 tvg-logo="https://www.cn247.tv/img/logo.png" group-title="02- LA LIGA",SKY-SPORT MX
-https://e10.espncdn.me/ingestnb4s/espn_sur/f.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0|Referer=https://telerium.digital/embed/59725.html
+#EXTINF:-1 tvg-id="" tvg-name="PLANETA FUTBOL | PLANETA FUTBOL 1"tvg-logo="https://tv.futboladiccion.com/wp-content/uploads/2018/03/Como-ver-SKY-Planeta-Futbol-en-vivo.jpg" group-title="PLANETA FUTBOL",PLANETA FUTBOL 1
+https://d3lteppw7wsqpe.cloudfront.net:443/out/v1/ac0e17d306d64fafb759b1b81ab8080d/index_2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PLANETA FUTBOL | PLANETA FUTBOL 1"tvg-logo="https://1.bp.blogspot.com/-iHaYK-uXspY/U_wf96Wv9_I/AAAAAAAAOgQ/oEbBGY666VE/s1600/planeta-futbol.jpg" group-title="PLANETA FUTBOL",PLANETA FUTBOL 2
+http://cdn101.thatisme.xyz/hls/ch74/index.m3u8?st=KJFVA-otQzWvu3R6YaiKeA&e=1604610206
+#EXTINF:-1 tvg-id="" tvg-name="PLANETA FUTBOL | PLANETA FUTBOL 1"tvg-logo="https://tv.futboladiccion.com/wp-content/uploads/2018/03/Como-ver-SKY-Planeta-Futbol-en-vivo.jpg" group-title="PLANETA FUTBOL",PLANETA FUTBOL 3
+https://unidfpclnlds141.akamaized.net/linear/hls/pb/event/bQ2JGGVzTpqfCfcTZWay1Q/stream/3e60c7f5-b420-46b2-9634-890d8b32ff7d:TPE/variant/c9fe74e2f4d7fc5df7bfad7969bb4acc/bandwidth/4500000.m3u8?hdntl=exp=1602529712~acl=*~id=6a2232dc-7490-44c2-a379-ef76092a704d~data=hdntl~hmac=9f98cbcfdc09adc29af063d7eeafa78491dbf6b690e4a3767712c276ee9d2d97
+#EXTINF:-1 tvg-id="" tvg-name="PLANETA FUTBOL | PLANETA FUTBOL 1"tvg-logo="https://1.bp.blogspot.com/-iHaYK-uXspY/U_wf96Wv9_I/AAAAAAAAOgQ/oEbBGY666VE/s1600/planeta-futbol.jpg" group-title="PLANETA FUTBOL",PLANETA FUTBOL 4
+https://live955.vkuserlive.com/629625/live/0/4aRl1BWk9USEhhJDV0Njs9Pzg2PTQwdDk/playlist.m3u8?extra=sC5uu1lJr3SVFlu-gGmt55trKU3NX0u_dV5NFPFmdkVtPi8jl1znST65-OuLWgrQaKJKGpP0ZwHjxfyWEwvSS-C1MqotjOvy2BvMfxGPh-OHKbgmQhC1PLDizzwlHlvWGZxb4uQPXANoTCU                                                                                         
+#EXTINF:-1 tvg-id="" tvg-name="PLANETA FUTBOL | PLANETA FUTBOL 1"tvg-logo="https://tv.futboladiccion.com/wp-content/uploads/2018/03/Como-ver-SKY-Planeta-Futbol-en-vivo.jpg" group-title="PLANETA FUTBOL",PLANETA FUTBOL 5
+https://d3se10hfv3clbn.cloudfront.net:443/out/v1/4f24ccae9b2142708bf0b8cb4a5c9a6d/index_28.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PLANETA FUTBOL | PLANETA FUTBOL 1"tvg-logo="https://1.bp.blogspot.com/-iHaYK-uXspY/U_wf96Wv9_I/AAAAAAAAOgQ/oEbBGY666VE/s1600/planeta-futbol.jpg" group-title="PLANETA FUTBOL",PLANETA FUTBOL 6
+https://1123881312.cdn-infiniband.com:443/cakhia/m101sd2/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PLANETA FUTBOL | PLANETA FUTBOL 1"tvg-logo="https://1.bp.blogspot.com/-iHaYK-uXspY/U_wf96Wv9_I/AAAAAAAAOgQ/oEbBGY666VE/s1600/planeta-futbol.jpg" group-title="PLANETA FUTBOL",PLANETA FUTBOL 7
+https://petope152.caraponi.me/live/vtv/index.m3u8?token=-_cNKDihTZRgit5Bt4bWCA&expires=1602371487
+#EXTINF:-1 tvg-id="" tvg-name="PLANETA FUTBOL | PLANETA FUTBOL 1"tvg-logo="https://1.bp.blogspot.com/-iHaYK-uXspY/U_wf96Wv9_I/AAAAAAAAOgQ/oEbBGY666VE/s1600/planeta-futbol.jpg" group-title="PLANETA FUTBOL",PLANETA FUTBOL 8
+http://cdn101.thatisme.xyz/hls/ustream20/index.m3u8?st=G_qLVBblu5RAzxAlMAElvA&e=1606269583
+#EXTINF:-1 tvg-id="" tvg-name="PLANETA FUTBOL | PLANETA FUTBOL 1"tvg-logo="https://1.bp.blogspot.com/-iHaYK-uXspY/U_wf96Wv9_I/AAAAAAAAOgQ/oEbBGY666VE/s1600/planeta-futbol.jpg" group-title="PLANETA FUTBOL",PLANETA FUTBOL 9
+https://perocoma152.caraponi.me/live/goltv/index.m3u8?token=tR2070Qp3bwN7xu75GzZvw&expires=1604687641                                    
+#EXTINF:-1,heidi
+https://hetz05.stor.loadx.me//download/users/AhSWxuQFIJ/svLUjSV88Ww/96a3be3cf272e017046d1b2674a52bd3.mp4?token=d9ykTPUM3eTJlTfSjyuLPQ&expires=1612921500&p=//users/AhSWxuQFIJ/svLUjSV88Ww/96a3be3cf272e017046d1b2674a52bd3.mp4
+#EXTINF:-1,PREMIER LEAGUE 2
+https://live.televisiongratishd.com/tvplus2021/18_.m3u8?token=BSX1uhpkymDUzTWQ6mxsaA&expires=1606278701
+#EXTINF:-1,PREMIER LEAGUE 3
+https://wnjulive-lh.akamaihd.net/i/WNJU_LIVE1@183615/index_3_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,PREMIER LEAGUE ru1
+https://95-213-224-183.livesports24.online/ntvmatchfoot1.m3u8
+#EXTINF:-1,PREMIER LEAGUE ru2
+https://95-213-224-183.livesports24.online/mfootball2rus.m3u8
+#EXTINF:-1,PREMIER LEAGUE ru3
+https://95-213-224-183.livesports24.online/rumatchf3.m3u8
+#EXTINF:-1,Sport tv1
+https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1,Sport tv2
+https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1,Sport tv3
+https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1,Sport tv4
+https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1,Sport tv5
+https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8embed/59725.html
 
 #EXTINF:-1,TIgo gute 1HD
  https://canal01gt.pxt.onl/out/v1/88e67fc9be954233a769f97bada38a56/index_33.m3u8
